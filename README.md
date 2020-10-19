@@ -6,6 +6,7 @@ the online generation of reward- maximizing courses of action from POMDP theory,
 See the article for details: G. Rens &amp; D Moodley. A hybrid POMDP-BDI agent architecture with online stochastic planning and plan caching. J. of Cognitive Systems (2017)
 
 This is an early version of the architecture not meant for public distribution.
+The algorithms and domain are in one file, which is actually not good practice.
 
 To start the agent in the TrickyTreats domain, simply run TrickyTreats-for-HPB-arch_w_PlanLib.py
 
