@@ -1,4 +1,4 @@
-# HPB-agent-architecture
+# HPB Agent Architecture
 An agent architecture for controlling an autonomous agent in stochastic, noisy environments.
 The architecture combines the partially observable Markov decision process (POMDP) model with the belief-desire-intention (BDI) framework.
 The Hybrid POMDP-BDI agent architecture takes the best features from the two approaches, that is,
@@ -8,6 +8,7 @@ See the article for details: G. Rens &amp; D Moodley. A hybrid POMDP-BDI agent a
 This is an early version of the architecture not meant for public distribution.
 The algorithms and domain are in one file, which is actually not good practice.
 
+## Instructions
 To start the agent in the TrickyTreats domain, simply run TrickyTreats-for-HPB-arch_w_PlanLib.py
 
 experiment(trials,  nuof_acts,  h) is the main function being called.
